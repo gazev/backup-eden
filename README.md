@@ -20,3 +20,5 @@ options:
                         Number of max concurrent requests permitted (default: 30)
 ```
 
+Some files might be lost, but overall it works good 👍
+
